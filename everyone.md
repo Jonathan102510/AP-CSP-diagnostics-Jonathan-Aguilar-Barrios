@@ -4,7 +4,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 1. _Fernando Morales, Turtle
 2. _
 3. Jeremias Garcia, Cat
-4. _
+4. Nathaniel Moran, sharks 
 5. _
 6. _
 7. _
