@@ -9,7 +9,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 2. _
  main
 3. Jeremias Garcia, Cat
-4. _
+4. _Delilah Maldonado, Tigers 
 5. _Aldo Marmolejo, Dog
 6. _Maximus Sandoval, Gorillas
 7. _ Jonathan Aguilar-Barrios, Dog
@@ -22,6 +22,8 @@ Type your name, your favorite animal on any of the line below. When you are done
 14. Kimberly Chanchavac, Dog
 15. _
 16. _
+17. 
+16. _Guadalupe Diego, Tigers
 17. _
 18. _
 19. _
@@ -64,7 +66,7 @@ Type your name, your favorite animal on any of the line below. When you are done
 56. _
 57. _
 58. _
-59. _
+59. Christopher Gonzalez, penguin
 60. _
 61. _
 62. _
